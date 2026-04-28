@@ -35,5 +35,3 @@ I enjoy turning complex problems into simple, beautiful, and intuitive solutions
 
 <!-- 🤝 Connect With Me
 <p align="left"> Add your LinkedIn / Portfolio / Email below Example: <a href="https://linkedin.com/in/yourprofile" target="blank">LinkedIn</a> | <a href="mailto:youremail@gmail.com">Email</a> </p>--> 
-
----
