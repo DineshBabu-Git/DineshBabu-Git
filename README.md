@@ -15,10 +15,10 @@ Passionate about building scalable, high-performance web applications and crafti
 
 ## 🛠️ Technologies & Tools
 
-- ### Languages: <img src="https://img.shields.io/badge/-JavaScript-yellow"> <img src="https://img.shields.io/badge/-HTML-orange"> 
-- ### Frameworks: <img src="https://img.shields.io/badge/-TailwindCSS-blue"> <img src="https://img.shields.io/badge/-React-blue"> <img src="https://img.shields.io/badge/-Node.js-green">   
-- ### Database: <img src="https://img.shields.io/badge/-MongoDB-green"> <img src="https://img.shields.io/badge/-MySQL-blue">
-- ### Tools: <img src="https://img.shields.io/badge/-Git-orange"> <img src="https://img.shields.io/badge/-VS%20Code-blue"> <img src="https://img.shields.io/badge/-Postman-blue">
+- #### Languages: <img src="https://img.shields.io/badge/-JavaScript-yellow"> <img src="https://img.shields.io/badge/-HTML-orange"> 
+- #### Frame/Libs: <img src="https://img.shields.io/badge/-TailwindCSS-blue"> <img src="https://img.shields.io/badge/-React-blue"> <img src="https://img.shields.io/badge/-Node.js-green">   
+- #### Database: <img src="https://img.shields.io/badge/-MongoDB-green"> <img src="https://img.shields.io/badge/-MySQL-blue">
+- #### Tools: <img src="https://img.shields.io/badge/-Git-orange"> <img src="https://img.shields.io/badge/-VS%20Code-blue"> <img src="https://img.shields.io/badge/-Postman-blue">
 
 ---
 
