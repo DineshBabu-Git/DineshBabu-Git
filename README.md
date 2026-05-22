@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Dinesh Babu
 
-I'm a passionate MERN Full Stack Developer based in Chennai and I'm intrested building scalable, high-performance web applications and crafting clean, maintainable code across both frontend and backend systems.
+A passionate MERN Full Stack Developer based in Chennai. Intrested in building scalable, high-performance web applications and crafting clean, maintainable code across both frontend and backend systems.
 
 ---
 
