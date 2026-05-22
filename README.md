@@ -4,15 +4,6 @@ Passionate about building scalable, high-performance web applications and crafti
 
 ---
 
-## 🌐 About Me
-
-- 💻 Full Stack Developer specializing in the MERN Stack
-- ⚡ Focused on building responsive, user-friendly applications
-- 🔧 Strong in API development, UI/UX, and performance optimization
-- 🤖 Interested in integrating AI-powered features into web apps
-
----
-
 ## 🛠️ Technologies & Tools
 
 - #### Languages: <img src="https://img.shields.io/badge/-JavaScript-yellow"> <img src="https://img.shields.io/badge/-HTML-orange"> 
@@ -22,16 +13,25 @@ Passionate about building scalable, high-performance web applications and crafti
 
 ---
 
+## 🌐 About Me
+
+- 💻 Full Stack Developer specializing in the MERN Stack
+- ⚡ Focused on building responsive, user-friendly applications
+- 🔧 Strong in API development, UI/UX, and performance optimization
+- 🤖 Interested in integrating AI-powered features into web apps
+
+---
+
 ## 💡 Fun Fact
 
 I enjoy turning complex problems into simple, beautiful, and intuitive solutions.
 
 ---
 
-## 📈 GitHub Stats
+<!--## 📈 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=DineshBabu-Git&show_icons=true&theme=dark" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=DineshBabu-Git&theme=dark" /> </p>
 
 ---
 
-<!-- 🤝 Connect With Me
+ 🤝 Connect With Me
 <p align="left"> Add your LinkedIn / Portfolio / Email below Example: <a href="https://linkedin.com/in/yourprofile" target="blank">LinkedIn</a> | <a href="mailto:youremail@gmail.com">Email</a> </p>--> 
